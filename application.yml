@@ -1,4 +1,5 @@
 spring.application.name=CONFIG-DEFAULT
+
 eureka.instance.prefer-ip-address=true
 eureka.instance.hostname=localhost
 eureka.client.fetch-registry=true
